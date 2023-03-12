@@ -30,6 +30,8 @@ To install all requirements
 > $ python3 manage.py runserver
 Then run server with the above command
 *****
+### live link
+https://helpful-cheesecake-d76534.netlify.app/
 ## dependencies
 - font awesome icons
 ## Technologies Used
